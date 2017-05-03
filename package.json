@@ -2,5 +2,7 @@
   "name": "vee-validate-CN",
   "version": "1.0.0",
   "main": "lib/zh_CN.js",
-  "private":false
+  "description": "vee-validate CN",
+  "private":false,
+  "repository": "https://github.com/gzliuhaoyuboy/vee-validate-CN"
 }
